@@ -252,7 +252,7 @@ a:not([href]):not([class]), a:not([href]):not([class]):hover {
 }
 
 body {
-  font-family: 'Source Sans Pro',Helvetica Neue,Helvetica,Arial,sans-serif; 
+  font-family: 'Orbitron',Helvetica Neue,Helvetica,Arial,sans-serif; 
   font-size: 16px;
   line-height: 1.75;
 }
@@ -353,7 +353,7 @@ body {
   border-bottom: 1px solid #fff;
   
   p {
-    font-family: 'Pathway Gothic One',Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-family: 'Orbitron', Neue,,Arial,sans-serif;
     font-size: 1.728rem;
     line-height: 0;
   }
@@ -12010,7 +12010,7 @@ body {
   background-size: cover;
 }
 .masthead h1, .masthead .h1 {
-  font-family: "impact", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: "Goldman", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 2.5rem;
   line-height: 2.5rem;
   letter-spacing: 0.8rem;
